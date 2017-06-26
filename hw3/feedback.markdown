@@ -1,0 +1,2 @@
+ 	
+Included many design issues, good! Step 3: Unknown message number 3. Two messages 15. -3. Step 4: Missing some attributes, e.g. membership number. -2%. After requirement changed: it should be "send the electronic membership card by email" instead of "print electronic member card". -3%.
